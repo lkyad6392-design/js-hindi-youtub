@@ -1,1 +1,1 @@
-node.js
+console.log(SpeechRecognitionAlternative);
